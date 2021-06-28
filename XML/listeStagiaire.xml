@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <stagiaire>
+    <CodeStg>1234B</CodeStg>
+    <NomStg>Boutissante</NomStg>
+    <DateInscription>2020-09-06T00:00:00+02:00</DateInscription>
+    <EmailStg>boutiss.issam.dev@gmail.com</EmailStg>
+    <NumStage>1</NumStage>
+  </stagiaire>
+  <stagiaire>
+    <CodeStg>1234C</CodeStg>
+    <NomStg>Mazzouz</NomStg>
+    <DateInscription>2020-09-06T00:00:00+02:00</DateInscription>
+    <EmailStg>mazzouz.chaimae.dev@gmail.com</EmailStg>
+    <NumStage>1</NumStage>
+  </stagiaire>
+</NewDataSet>
